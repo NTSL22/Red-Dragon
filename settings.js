@@ -47,8 +47,8 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+94773369633']
-global.ownertag = '+94773369633' //your tag number
+global.owner = ['+94753215317']
+global.ownertag = '+94753215317' //your tag number
 global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "Nisal Tharaka" // sticker author
@@ -56,7 +56,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ Nisal Tharak ]' //
 
 //database
-global.premium = ['+94773369633'] //ur premium numbers
+global.premium = ['+94753215317'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
